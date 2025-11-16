@@ -49,7 +49,11 @@ Não posso querer ser nada.
     <img width="35" height="35" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/kaggle_logo_icon_145140.png"/>
 </div>
 
-## 💡 Sobre mim 
+## 🔎 Sobre mim 
+-Sou graduado em Administração de Empresas e atualmente trabalho com Planejamento de Demandas e Pricing no ramo varejista. Comecei a estudar ciência de dados em 2024. Passei a desbravar esse mundo fascinante por causa de uma série — mais especificamente, por uma cena em que o enredo mostrava a previsão do futuro das pessoas a partir dos dados coletados de todas aquelas que viveram antes delas.
+A ideia de prever o futuro usando dados, à primeira vista, me pareceu possível — talvez não no nível de antecipar uma vida inteira, mas certamente no nível de prever uma anomalia climática, uma doença ou até mesmo o que um cliente pode comprar ao visitar uma loja.
+
+
 
 - Graduanda em Engenharia de Software e com previsão de conclusão para o segundo semestre de 2025, comecei a estudar Ciência de Dados em 2022. Conheci e comecei a estudar sobre essa área de IA após assistir alguns vídeos sobre a Nasa, astronautas e seus foguetes, consequentemente me apaixonando por dados e seus poderes. Meu objetivo é usar dados para obter insights e fazer a diferença no negócio.
 - 🖥️ Quer saber mais sobre meu trabalho? Dá uma olhada no meu portfólio [aqui](https://github.com/silvaelaine/lookatmyself).
