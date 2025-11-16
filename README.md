@@ -1,8 +1,4 @@
-## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
-
-Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
-mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
-
+## Olá! Eu sou o Vitor e você acabou de entrar no meu mundo
 <div style="display: inline_block"><br>
    <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
@@ -25,41 +21,32 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
 <img align='right' src="https://media.giphy.com/media/wET3URacPVM9G/giphy.gif" width="230">
 
 ### 🚀 
-Não sou nada.
 
-Nunca serei nada.
-
-Não posso querer ser nada.
-
-À parte isso, tenho em mim todos os sonhos do mundo.
-
-
+Algum dia será possível reverter a entropia no Universo?"
 
 </div>
 <div align='center'>
-<a href='https://www.linkedin.com/in/euelainesilva/'>
+<a href='https://www.linkedin.com/in/vitor-prado-104a231a1/)'>
     <img width="35" height="35" src="https://img.icons8.com/metro/26/000000/linkedin.png"/>
 </a>
  ╹
- <a href='https://medium.com/@lainetnr'>
+ <a href='https://medium.com/@prado1bernardo'>
     <img width="35" height="35" src="https://cdn4.iconfinder.com/data/icons/social-media-circle-7/512/Medium_circle-512.png"/>
 </a>
  ╹
-  <a href='https://www.kaggle.com/lainetnr'>
+  <a href='https://www.kaggle.com/prado1bernardo'>
     <img width="35" height="35" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/kaggle_logo_icon_145140.png"/>
 </div>
 
 ## 🔎 Sobre mim 
--Sou graduado em Administração de Empresas e atualmente trabalho com Planejamento de Demandas e Pricing no ramo varejista. Comecei a estudar ciência de dados em 2024. Passei a desbravar esse mundo fascinante por causa de uma série — mais especificamente, por uma cena em que o enredo mostrava a previsão do futuro das pessoas a partir dos dados coletados de todas aquelas que viveram antes delas.
-A ideia de prever o futuro usando dados, à primeira vista, me pareceu possível — talvez não no nível de antecipar uma vida inteira, mas certamente no nível de prever uma anomalia climática, uma doença ou até mesmo o que um cliente pode comprar ao visitar uma loja.
+Sou graduado em Administração de Empresas e atualmente trabalho com Planejamento de Demandas e Pricing no ramo varejista. Comecei a estudar ciência de dados em 2024. Passei a desbravar esse mundo fascinante por causa de uma série — mais especificamente, por uma cena em que o enredo mostrava a previsão do futuro das pessoas a partir dos dados coletados de todas aquelas que viveram antes delas.
 
+A ideia de prever o futuro usando dados, à primeira vista, me pareceu possível — talvez não no nível de levar o determinismo ao máximo, antecipando uma vida inteira, mas no nível de prever uma anomalia climática, uma doença ou até mesmo oferecer o que uma pessoa precisa no momento exato em que realmente precisa. No mesmo período, passei bastante tempo consumindo artigos, ouvindo podcasts e assistindo vídeos sobre o assunto.
 
-
-- Graduanda em Engenharia de Software e com previsão de conclusão para o segundo semestre de 2025, comecei a estudar Ciência de Dados em 2022. Conheci e comecei a estudar sobre essa área de IA após assistir alguns vídeos sobre a Nasa, astronautas e seus foguetes, consequentemente me apaixonando por dados e seus poderes. Meu objetivo é usar dados para obter insights e fazer a diferença no negócio.
-- 🖥️ Quer saber mais sobre meu trabalho? Dá uma olhada no meu portfólio [aqui](https://github.com/silvaelaine/lookatmyself).
-  
+No segundo semestre de 2025, decidi migrar de carreira para me tornar cientista de dados. Este GitHub, os artigos no Medium e os projetos aqui apresentados são a personificação dessa escolha — uma escolha inspirada por uma simples cena de série.
 
 ---
+
 ### 📝 Artigos técnicos e estudos
 - [Análise de Churn usando SQL & Excel](https://medium.com/@lainetnr/an%C3%A1lise-de-churn-usando-sql-excel-parte-1-2e49c7a1cafb)
 - [Selecione estrategicamente as cores para suas visualizações de dados.](https://medium.com/@lainetnr/selecione-estrategicamente-as-cores-para-suas-visualiza%C3%A7%C3%B5es-de-dados-8b038f357c34)
