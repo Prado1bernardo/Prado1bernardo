@@ -1,4 +1,14 @@
 ## Olá! Eu sou o Vitor e você acabou de entrar no meu mundo
+<div style="display: inline_block"><br>
+   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+
+##
+ 
+
+
+<img align='right' src="https://media.giphy.com/media/wET3URacPVM9G/giphy.gif" width="230">
+
 
 ### 🚀 
 
