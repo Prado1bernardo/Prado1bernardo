@@ -22,7 +22,7 @@
 
 ### 🚀 
 
-Algum dia será possível reverter a entropia no Universo?"
+Algum dia será possível reverter a entropia no Universo?
 
 </div>
 <div align='center'>
