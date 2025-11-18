@@ -25,7 +25,7 @@ Algum dia será possível reverter a entropia no Universo?
 </div>
 
 ## 🔎 Sobre mim 
-Sou graduado em Administração de Empresas e atualmente trabalho com Planejamento de Demandas e Pricing no ramo varejista. Comecei a estudar ciência de dados em 2024. Passei a desbravar esse mundo fascinante por causa de uma série — mais especificamente, por uma cena em que o enredo mostrava a previsão do futuro das pessoas a partir dos dados coletados de todas aquelas que viveram antes delas.
+Sou graduado em Administração de Empresas e atualmente trabalho com Planejamento de Demandas e Pricing no ramo varejista. Comecei a estudar Ciência de Dados em 2024. Passei a desbravar esse mundo fascinante por causa de uma série — mais especificamente, por uma cena em que o enredo mostrava a previsão do futuro das pessoas a partir dos dados coletados de todas aquelas que viveram antes delas.
 
 A ideia de prever o futuro usando dados, à primeira vista, me pareceu possível — talvez não no nível de levar o determinismo ao máximo, antecipando uma vida inteira, mas no nível de prever uma anomalia climática, uma doença ou até mesmo oferecer o que uma pessoa precisa no momento exato em que realmente precisa. No mesmo período, passei bastante tempo consumindo artigos, ouvindo podcasts e assistindo vídeos sobre o assunto.
 
