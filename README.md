@@ -34,6 +34,8 @@ No segundo semestre de 2025, decidi migrar de carreira para me tornar cientista 
 ---
 
 ### 📝 Artigos técnicos e estudos
+- [Análise dos Dados do Airbnb - New York](https://github.com/Prado1bernardo/Projetos_data_science/blob/main/Analise_Dados_Airbnb_New_York.ipynb)
+- [Titanic: Machine learning from disaster](https://github.com/Prado1bernardo/Projetos_data_science/blob/main/Titanic.ipynb)
 - [Análise de Churn usando SQL & Excel](https://medium.com/@lainetnr/an%C3%A1lise-de-churn-usando-sql-excel-parte-1-2e49c7a1cafb)
 - [Selecione estrategicamente as cores para suas visualizações de dados.](https://medium.com/@lainetnr/selecione-estrategicamente-as-cores-para-suas-visualiza%C3%A7%C3%B5es-de-dados-8b038f357c34)
 - [Naive Bayes e a Classificação de Sentimento](https://medium.com/@lainetnr/naive-bayes-e-a-classifica%C3%A7%C3%A3o-de-sentimento-e696a123cc2d)
